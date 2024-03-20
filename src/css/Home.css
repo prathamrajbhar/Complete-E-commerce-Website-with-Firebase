@@ -1,0 +1,18 @@
+.horizontal-scroll-container {
+    display: flex;
+    overflow-x: auto;
+    width: 100%;
+    padding-bottom: 20px;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+}
+
+.card {
+    margin-right: 10px;
+}
+.spacer{
+    background-color: #db4444;
+    padding: 5px;
+    position: relative;
+    border-radius: 3px;
+}

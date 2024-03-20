@@ -1,0 +1,53 @@
+.quantityButtonMinus {
+    background-color: #fff;
+    font-size: 2rem;
+    width: 3rem;
+    border-color: #ddd;
+}
+
+.quantityInput {
+    width: 5rem;
+    font-weight: bold;
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+.quantityButtonPlus {
+    background-color: #db4444;
+    font-size: 2rem;
+    width: 3rem;
+    color: #fff;
+    border: none;
+    border-radius: 0 5px 5px 0;
+}
+
+.cardButton{
+    background: none;
+    border: 2px solid #ddd;
+    padding: 0.5rem 1rem;
+    font-size: 1.5rem;
+    cursor: pointer;
+    transition: all 0.3s;
+    border-radius: 5px;
+}
+.deal-card{
+    padding: 1rem;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin: 0.3rem 0;
+    transition: all 0.3s;
+}
+
+.category_tag{
+    background-color: #ddd;
+    color: #000;
+    padding: 7px;
+    border-radius: 5px;
+    margin: 0.5rem 0;
+    display: inline-block;
+    font-size: 1.5rem;
+    transition: all 0.3s;
+    font-weight: 600;
+    text-transform: capitalize;
+    font-size: 13px;
+}
